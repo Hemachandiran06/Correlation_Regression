@@ -1,4 +1,8 @@
-# Correlation and regression for data analysis
+# EX:03 Correlation and regression for data analysis
+## DATE:03-5-26
+
+## DEVELOPED BY : HEMACHADIRAN J
+## REGISTER NUMBER: 212224040113
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
